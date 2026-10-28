@@ -1,0 +1,11 @@
+interface:
+  display_name: "Creative analytics"
+  short_description: "Turn performance into creative experiments"
+  default_prompt: "Use $creative-analytics to analyze my Meta creatives and recommend the next tests."
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "spiral"
+      description: "Spiral creative intelligence, analytics, and generation"
+      transport: "streamable_http"
+      url: "https://public-api.spiral.ad/mcp"

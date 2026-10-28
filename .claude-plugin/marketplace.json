@@ -1,0 +1,31 @@
+{
+  "name": "spiral",
+  "owner": {
+    "name": "Spiral",
+    "email": "indiefilipk@gmail.com"
+  },
+  "metadata": {
+    "description": "The official Spiral marketplace for Claude Code plugins",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "spiral-claude-plugin",
+      "source": "./",
+      "description": "The official Spiral claude plugin",
+      "version": "1.0.0",
+      "author": {
+        "name": "Filip Knyszewski"
+      },
+      "keywords": [
+        "spiral",
+        "ads",
+        "meta",
+        "tiktok",
+        "creative",
+        "ad-intelligence",
+        "marketing"
+      ]
+    }
+  ]
+}
