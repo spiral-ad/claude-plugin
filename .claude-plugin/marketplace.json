@@ -10,7 +10,7 @@
   },
   "plugins": [
     {
-      "name": "spiral-claude-plugin",
+      "name": "spiral",
       "source": "./",
       "description": "The official Spiral claude plugin",
       "version": "1.0.0",
