@@ -1,0 +1,12 @@
+{
+  "name": "spiral",
+  "description": "The official Spiral claude plugin",
+  "version": "1.0.0",
+  "icon": "./logo.png",
+  "license": "LicenseRef-Proprietary",
+  "author": {
+    "name": "Filip Knyszewski"
+  },
+  "homepage": "https://spiral.ad",
+  "privacyPolicyUrl": "https://www.spiral.ad/privacy-policy"
+}

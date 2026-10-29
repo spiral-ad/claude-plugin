@@ -1,0 +1,11 @@
+interface:
+  display_name: "Get started with Spiral"
+  short_description: "Understand Spiral and learn how to use it"
+  default_prompt: "Use $spiral-onboarding to explain what Spiral MCP is, what I can do with it, and how to use it with my product."
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "spiral"
+      description: "Spiral creative intelligence, analytics, and generation"
+      transport: "streamable_http"
+      url: "https://public-api.spiral.ad/mcp"
